@@ -1,1 +1,3 @@
-# milkmaid
+# Milkmaid Vive VR painting
+
+This is a VR game, intended to be played usign an HTC Vive. It is being developed in Unreal Engine 4. It will take the classic painting "Milkmaid", currently part of the collection of the Rijksmuseum in Amsterdam, and bring it to live in VR. The milkmaid is hired by a wealthy family to take care of them and their kids, but what happens when she finds herself in the nightmare scenario that the family she works for has 80 children? You, as the player, are playing as the milkmaid. She has to prepare food for all of the hungry kids, who are getting hungrier and hungrier, and want their food faster and faster.
